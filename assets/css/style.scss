@@ -4,5 +4,11 @@
 @import "{{site.theme}}";
 
 h1 {
-    color: blue;
+    color: green;
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+    justify-content: center;
 }
