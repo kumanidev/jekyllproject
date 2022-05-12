@@ -17,20 +17,7 @@
   </head>
 
 
-  {% for block in site.data.blog.blog-info %}
-  <div class="cards">
-    <div class="card">
-      <div class="img">
-        <img src="{{block.image}}" alt="{{block.image-alt}}">
-      </div>
-      <div class="content">
-        <h2 class="title">{{block.title}}</h2>
-        <h3>{{block.subtitle}}</h3>
-        <p>{{blog.blog-content}}</p>
-      </div>
-    </div>
-  </div>
-  {% end for %}
+
 
   <body>
     <header>
@@ -47,6 +34,21 @@
         {% endif %}
       </div>
     </header>
+
+    {% for block in site.data.blog.blog-info %}
+    <div class="cards">
+      <div class="card">
+        <div class="img">
+          <img src="{{block.image}}" alt="{{block.image-alt}}">
+        </div>
+        <div class="content">
+          <h2 class="title">{{block.title}}</h2>
+          <h3>{{block.subtitle}}</h3>
+          <p>{{blog.blog-content}}</p>
+        </div>
+      </div>
+    </div>
+    {% end for %}
 
     <div id="content-wrapper">
       <div class="inner clearfix">
