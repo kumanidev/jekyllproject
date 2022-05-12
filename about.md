@@ -1,6 +1,6 @@
 ---
-layout: default
-title: About us (new)
+layout: about
+title: More About Me
 description: this is the about us page
 ---
 ## About Me
