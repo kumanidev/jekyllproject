@@ -1,7 +1,7 @@
 ---
 layout: about
-title: More About Me
-description: this is the about us page
+title: About Me
+description: this is the about me page
 ---
 
 {% include nav.html %}

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Welcome
+title: Gallery
 description: this is the gallery page
 ---
 
