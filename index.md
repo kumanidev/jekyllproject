@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/kumanidev/jekyllproject/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hello! My name is Kumani Riley. I am a member of the Foote Fellow Honors Program here at the U studying Computer Science and Interactive Media. I also have strong passion for learning about new technologies, stretching from development tools to creative software. I have strong interests in product management, UI/UX design and frontend development. I am currently a Project Manager at Orange Umbrella Miami, a full-service, student-run consultancy. I have also been very involved in campus life. I am on the Executive Board for Caribbean Students’ Association. In addition to that, I am a First Year Fellow, academic mentor, among other things on campus. .
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Technologies that I know
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Technical Proficiencies: Java, MS Office Suite (Excel, PowerPoint, Access, Outlook, Word, Teams), C#, Unity, GitHub, 
+Notion, Figma, ArcGIS Pro, Visual Studio Code, Bootstrap, HTML/CSS, JavaScript Basics, SQL Basics, UNIX/Linux
 
 ```markdown
-Syntax highlighted code block
+Technical Proficiencies: Java, MS Office Suite (Excel, PowerPoint, Access, Outlook, Word, Teams), C#, Unity, GitHub, 
+Notion, Figma, ArcGIS Pro, Visual Studio Code, Bootstrap, HTML/CSS, JavaScript Basics, SQL Basics, UNIX/Linux
 
-# Header 1
-## Header 2
-### Header 3
+For more details see [Basic writing and formatting syntax](https://www.linkedin.com/in/kumaniriley/).
 
-- Bulleted
-- List
+### Career Goals
 
-1. Numbered
-2. List
+My intention is to start a career in tech. My interests range from design to programming.
 
-**Bold** and _Italic_ and `Code` text
+### Contact
 
-[Link](url) and ![Image](src)
-```
+LinkedIn: Kumani Riley
+Contact: 305-XXX-XXX
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kumanidev/jekyllproject/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
