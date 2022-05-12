@@ -1,9 +1,6 @@
 theme: jekyll-theme-architect
 url: https://kumanidev.github.io
-
-
-title: Kumani's Life
-description: Show info on myself and career
 baseurl: /jekyllproject/
-
+title: Kumani's Life
+description: Site about myself
 author: Kumani Riley
