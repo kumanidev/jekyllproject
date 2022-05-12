@@ -1,3 +1,11 @@
+---
+layout: default
+title: Intro
+description: this is the intro page
+---
+
+
+{% include nav.html %}
 ## About Me
 
 Hello! My name is Kumani Riley. I am a member of the Foote Fellow Honors Program here at the U studying Computer Science and Interactive Media. I also have strong passion for learning about new technologies, stretching from development tools to creative software. I have strong interests in product management, UI/UX design and frontend development. I am currently a Project Manager at Orange Umbrella Miami, a full-service, student-run consultancy. I have also been very involved in campus life. I am on the Executive Board for Caribbean Students’ Association. In addition to that, I am a First Year Fellow, academic mentor, among other things on campus. .
