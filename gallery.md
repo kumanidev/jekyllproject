@@ -2,6 +2,7 @@
 layout: default
 title: Gallery
 description: this is the gallery page
+order: 3
 ---
 
 {% include nav.html %}

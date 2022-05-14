@@ -4,10 +4,13 @@
         <li class="navigation"><href="about">Contact</href></li>
     </ul>
 </nav> -->
+<nav>
+    <ul>
+        {% assign sorted_pages = site.html_pages | sort:"order" %}
+        {% for page in sorted_pages %}
+        <li class="button"><a href="{{site.baseurl}}{page.url}}">{{page.title}}</a></li>
+        {% endfor %}
+    </ul>
 
-<ul>
-    {% assign sorted_pages = site.html_pages | sort:"order" %}
-    {% for page in sorted_pages %}
-    <li class="button"><a href="{{site.baseurl}}{page.url}}">{{page.title}}</a></li>
-    {% endfor %}
-</ul>
+</nav>
+
