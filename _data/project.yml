@@ -10,7 +10,7 @@ list:
   title: Project 2
   list-content: This is what the second project is about ...
 
-  - image:""
+- image:""
   image-alt: Image 3
   title: Project 3
   list-content: This is what the third project is about ...
