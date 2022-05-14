@@ -1,16 +1,16 @@
 list:
 - image:"https://thumbs.dreamstime.com/b/projects-concept-black-chalkboard-d-rendering-handwritten-top-view-office-desk-lot-business-office-supplies-79906734.jpg"
-  imageAlt: Image 1
+  image-alt: Image 1
   title: Project 1
   list-content: This is what the first project is about ...
 
 
 - image:"https://thumbs.dreamstime.com/b/projects-concept-black-chalkboard-d-rendering-handwritten-top-view-office-desk-lot-business-office-supplies-79906734.jpg"
-  imageAlt: Image 2
+  image-alt: Image 2
   title: Project 2
   list-content: This is what the second project is about ...
 
 - image:"https://thumbs.dreamstime.com/b/projects-concept-black-chalkboard-d-rendering-handwritten-top-view-office-desk-lot-business-office-supplies-79906734.jpg"
-  imageAlt: Image 3
+  image-alt: Image 3
   title: Project 3
   list-content: This is what the third project is about ...
