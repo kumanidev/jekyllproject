@@ -12,7 +12,7 @@ order: 3
   <div class="projects">
     <div class="project">
       <div class="pic">
-         <img src="{{block.image}}" alt="{{block.imageAlt}}">
+         <img src="{{block.image}}" alt="{{block.image-alt}}">
       </div>
     <div class="content">
       <h3 class="title">{{block.title}}</h3>
@@ -24,3 +24,4 @@ order: 3
 
 
 
+KR
