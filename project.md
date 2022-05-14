@@ -22,6 +22,8 @@ order: 3
 </div>
 {% endfor %}
 
+{% include projectcontent.html %}
+
 
 
 KR
