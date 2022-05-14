@@ -7,7 +7,12 @@ order: 1
 
 
 {% include nav.html %}
-## About Me
+#### Welcome to my page
 
-Welcome to this personal site to learn more about mw
+<figure>
+    <img src="https://jamaicabeacon.com/wp-content/uploads/2018/09/Kumani-Riley-1.jpg" alt="Photo of Kumani Riley" width="500" height="550"><br>
+        <figcaption>
+          Photo of Kumani Riley
+        </figcaption>
+</figure>
 
