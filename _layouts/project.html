@@ -37,7 +37,7 @@
         <section id="main-content">
           {{ content }}
         </section>
-              {% for block in site.data.project %}
+              {% for block in site.data.project.list %}
               <div class="projects">
                 <div class="project">
                   <div class="pic">
@@ -49,6 +49,7 @@
                   </div>
                 </div>
               </div>
+              {% endfor %}
         <!-- <aside id="sidebar">
           {% if site.show_downloads %}
             <a href="{{ site.github.zip_url }}" class="button">

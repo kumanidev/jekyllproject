@@ -1,5 +1,5 @@
-
--image:"https://thumbs.dreamstime.com/b/projects-concept-black-chalkboard-d-rendering-handwritten-top-view-office-desk-lot-business-office-supplies-79906734.jpg"
+list:
+- image:"https://thumbs.dreamstime.com/b/projects-concept-black-chalkboard-d-rendering-handwritten-top-view-office-desk-lot-business-office-supplies-79906734.jpg"
   imageAlt: Image 1
   title: Project 1
   list-content: This is what the first project is about ...
