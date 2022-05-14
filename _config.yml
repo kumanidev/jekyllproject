@@ -1,7 +1,7 @@
 theme: jekyll-theme-architect
 remote_theme: pages-themes/architect@v0.2.0
-baseurl: https://kumanidev.github.io
-url: /jekyllproject/
+url: https://kumanidev.github.io
+baseurl: /jekyllproject/
 title: Kumani's Life
 description: Learn more about me
 author: Kumani Riley

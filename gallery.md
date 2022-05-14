@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Gallery
+layout: project
+title: Projects
 description: this is the gallery page
 order: 3
 ---
