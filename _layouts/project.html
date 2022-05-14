@@ -36,20 +36,22 @@
       <div class="inner clearfix">
         <section id="main-content">
           {{ content }}
-        </section>
-              {% for block in site.data.project.list %}
-              <div class="projects">
-                <div class="project">
-                  <div class="pic">
-                    <img src="https://thumbs.dreamstime.com/b/projects-concept-black-chalkboard-d-rendering-handwritten-top-view-office-desk-lot-business-office-supplies-79906734.jpg" alt="">
-                  </div>
-                  <div class="content">
-                    <h3 class="title">Image</h3>
-                    <p>This is ...</p>
-                  </div>
-                </div>
+
+          {% for block in site.data.project.list %}
+          <div class="projects">
+            <div class="project">
+              <div class="pic">
+                <img src="https://thumbs.dreamstime.com/b/projects-concept-black-chalkboard-d-rendering-handwritten-top-view-office-desk-lot-business-office-supplies-79906734.jpg" alt="">
               </div>
-              {% endfor %}
+              <div class="content">
+                <h3 class="title">Image</h3>
+                <p>This is ...</p>
+              </div>
+            </div>
+          </div>
+          {% endfor %}
+        </section>
+             
         <!-- <aside id="sidebar">
           {% if site.show_downloads %}
             <a href="{{ site.github.zip_url }}" class="button">
