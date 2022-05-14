@@ -37,7 +37,18 @@
         <section id="main-content">
           {{ content }}
         </section>
-
+              {% for block in site.data.project.list %}
+              <div class="projects">
+                <div class="project">
+                  <div class="pic">
+                    <img src="" alt="">
+                  </div>
+                  <div class="content">
+                    <h3 class="title">Title</h3>
+                    <p></p>
+                  </div>
+                </div>
+              </div>
         <!-- <aside id="sidebar">
           {% if site.show_downloads %}
             <a href="{{ site.github.zip_url }}" class="button">

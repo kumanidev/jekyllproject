@@ -8,8 +8,6 @@ baseurl: project
 
 {% include nav.html %}
 
-## About Me
-
 <section class="content2" id="content2">
       <h3>School Projects</h3>
       <p>I have a few of my projects below</p>
