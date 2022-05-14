@@ -2,7 +2,6 @@
 layout: default
 title: Welcome
 description: this is the intro page
-order: 1
 baseurl: default
 ---
 

@@ -2,7 +2,6 @@
 layout: about
 title: About
 description: this is the about me page
-order: 2
 baseurl: about
 ---
 
