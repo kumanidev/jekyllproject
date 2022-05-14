@@ -3,6 +3,7 @@ layout: about
 title: About
 description: this is the about me page
 baseurl: about
+order: 2
 ---
 
 {% include nav.html %}
