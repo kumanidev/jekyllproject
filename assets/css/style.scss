@@ -33,6 +33,20 @@ header {
 
 .top-box {
   padding: 15px;
-  text-align: center;
+  text-align: right;
+}
+
+
+.importance-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 2px;
+}
+
+.importance {
+  background: yellow;
+  padding: 15%;
+  padding-top: 2%;
+  border: 1px solid black;
 }
   
