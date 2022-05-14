@@ -4,7 +4,7 @@
 @import "{{site.theme}}";
 
 h1 {
-    color: green;
+    color: black;
 }
 
 nav ul {
@@ -13,7 +13,7 @@ nav ul {
     justify-content: space-around;
     padding: 2%;
     margin: 0 auto;
-    background: yellowgreen;
+    background: blueviolet;
     border: 1px solid black;
 }
 
@@ -34,6 +34,9 @@ header {
 .top-box {
   padding: 15px;
   text-align: right;
+  padding: 15%;
+  padding-top: 2%;
+  border: 1px solid black;
 }
 
 
@@ -44,7 +47,7 @@ header {
 }
 
 .importance {
-  background: yellow;
+  background: white;
   padding: 15%;
   padding-top: 2%;
   border: 1px solid black;
